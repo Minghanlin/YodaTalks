@@ -18,7 +18,7 @@ $btn.on('click', function() {
     $('#result').html(data);
     },
     beforeSend: function(xhr) {
-      xhr.setRequestHeader('X-Mashape-Key', 'SLuPLxDd4EmshngCN93Nmxacbyipp1YGmsKjsnc6OcwHwNnuLi');
+      xhr.setRequestHeader('X-Mashape-Key', 'bdIm0T3hHPmshYybF8dz13OmKT8qp1uIfxtjsn82CQmr2HKaMk');
     }
     })
     .fail(function(request, textStatus, errorThrown) {
